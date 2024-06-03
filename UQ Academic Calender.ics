@@ -1,0 +1,434 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240802
+SUMMARY:Semester 2 - last date for addition of courses or alteration of enrolment
+UID:a251ceb1-db97-4ff7-bbd6-e512ead8666f@a251.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241001
+SUMMARY:Research Quarter 4 commences
+UID:e20ba8c1-45d2-427c-92d7-9977dbe1c3cf@e20b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240831
+SUMMARY:Semester 2 mid-semester Saturday examinations
+UID:5e1b769f-8531-48c5-bd1b-5e1a7f6edb5b@5e1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240603
+SUMMARY:Teaching Period 4 - census date/last date to drop courses or cancel enrolment without financial ...
+UID:47a92b43-0980-4124-99e7-d31d6d10688f@47a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+SUMMARY:Semester 1 and 2 2025 enrolments open for continuing students
+UID:d830597c-97fe-4ccc-a742-21f8f3552b5e@d830.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+SUMMARY:King’s Birthday public holiday
+UID:a1ee2ff6-3c2e-4beb-abbc-da3a9e74f28d@a1ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240617
+SUMMARY:Semester 2 - My Timetable opens for preferencing at 12:00pm
+UID:ed104770-f2bc-46b7-b0d9-a75948a27f75@ed10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+SUMMARY:Teaching Period 8 - classes commence/due date to enrol
+UID:c3d351d7-294d-41db-93ae-eca68a163a94@c3d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240708
+SUMMARY:Graduations period 8 - 12 July 2024
+UID:9dcb3eae-513e-4bed-9395-41c8b30a0d6c@9dcb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240630
+SUMMARY:Research Quarter 2 ends
+UID:47d3d72c-fc20-4d5c-a89a-847b5202bb82@47d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240712
+SUMMARY:Semester 2 - due date to enrol* for domestic students
+UID:d6ca76d1-7e21-47f7-a9dd-632dfe48537b@d6ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241019
+SUMMARY:Teaching Period 6 - classes end
+UID:495a0ba5-3d97-40f9-9e05-551228d9486e@495a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+SUMMARY:Summer Semester - My Timetable opens for preferencing at 12:00pm
+UID:03f9912a-f9f3-4dc3-b418-236e13e59204@03f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241214
+SUMMARY:Teaching Period 8 - classes end
+UID:d6498039-e6ab-4854-afdd-269078f8ec93@d649.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+SUMMARY:Teaching Period 8 - census date/last date to drop courses or cancel enrolment without financial ...
+UID:75c52e6f-e553-47fd-a15d-e1ed199e44cd@75c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240701
+SUMMARY:Universities Australia Common Vacation Week
+UID:c8d5b567-8caa-420b-9d1d-1674f040c04b@c8d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240831
+SUMMARY:Semester 2 Census Date - last date to withdraw from Semester 2 course(s) or cancel enrolment ...
+UID:115893c7-d6a4-4b19-ae85-f95c1f613d5f@1158.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Teaching Period 5 - classes end
+UID:7e9e9606-b7cf-48cf-ad0c-7b712c5c7cbb@7e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241231
+SUMMARY:Research Quarter 4 ends
+UID:ef086028-cc26-4742-8129-aed045652e78@ef08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240701
+SUMMARY:Research Quarter 3 commences
+UID:81e900bd-7fd4-40de-9415-c290d04fef55@81e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241215
+SUMMARY:Summer Semester - My Timetable allocation adjustment finishes at 9:00am
+UID:feeaaa1f-5e1b-4659-a8a2-fcc5b074516c@feea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+SUMMARY:Teaching Period 7 - due date for payment of tuition fees
+UID:f840d687-c62c-4d58-acd6-721429065889@f840.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240826
+SUMMARY:Teaching Period 6 - due date for payment of tuition fees
+UID:d06abfe9-16e2-4e94-b133-42c2f19a678a@d06a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240624
+SUMMARY:Teaching Period 5 - classes commence/due date to enrol
+UID:703bafb8-f8e8-4ba7-812f-3948ae05111a@703b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240630
+SUMMARY:Semester 2 - My Timetable preferencing closes at 9:00am.
+UID:b1e13ae8-10f5-4521-8e09-a7f676a5de3b@b1e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240630
+SUMMARY:Progression Improvement Plan due for students who were issued a progression intervention notice ...
+UID:842cc938-5ab4-46a1-8932-aa517abcd4a3@842c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+SUMMARY:Semester 2 mid-semester Saturday examinations
+UID:20911c42-ded5-438b-9449-9b5daabd84d0@2091.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241110
+SUMMARY:Summer Semester - My Timetable unavailable from 8:00am to 12:00pm
+UID:92d763ff-8ded-4205-9ea7-4ebb02fb85ff@92d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240603
+SUMMARY:Semester 2 – My Timetable course timetables available
+UID:538c5f47-063d-49e2-a0a7-0043c00e1de3@538c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+SUMMARY:Summer Semester 2024/2025 classes commence
+UID:31555d01-546d-42b5-8bd3-44fe6f1a45dd@3155.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241005
+SUMMARY:Semester 2 mid-semester Saturday deferred examinations
+UID:feef0b5a-bf07-4680-9b24-5415baf426cd@feef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240812
+SUMMARY:Royal Queensland Show public holiday (Gatton area only - Gatton campus closed)
+UID:770a17a1-7953-45b3-be75-e10cdbd7bfcf@770a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241026
+SUMMARY:Semester 2 classes end*
+UID:bcf8b52c-c956-4493-8a1a-7b5e5dae762b@bcf8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240814
+SUMMARY:Royal Queensland Show public holiday (Brisbane Area only - St Lucia and Herston Campus closed)
+UID:0b1378f5-4aca-4592-a423-32a816a3facf@0b13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+SUMMARY:Semester 2 revision period 28 October - 1 November 2024
+UID:7ab47810-f87d-4bf9-9a2d-600a0f474d93@7ab4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+SUMMARY:Semester 2 deferred and supplementary examination period 10 - 13 December 2024
+UID:c49570b5-bef5-4310-8f06-4330e148e326@c495.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241118
+SUMMARY:Teaching Period 8 - final date for addition of courses or alteration of enrolment
+UID:7f556002-3e92-44ef-bcb0-6094948f84c6@7f55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241222
+SUMMARY:Summer Semester 2024/2025 mid-semester break commences
+UID:a0e9179a-a854-4778-9833-6fb68e5e399c@a0e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241127
+SUMMARY:Semester 2 finalisation of grades
+UID:a34a5e31-dad9-4023-a5bf-3821bf35c303@a34a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240819
+SUMMARY:Teaching Period 6 - classes commence/due date to enrol
+UID:0aedce17-302d-416b-89ab-5273e555736b@0aed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241221
+SUMMARY:Summer Semester 2024/2025 classes end before mid-semester break (provisional)
+UID:2385dd7d-28a6-4dc3-9478-d3866490551f@2385.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+SUMMARY:Christmas Day public holiday
+UID:ebf236fe-b259-420e-9b3b-905388c783df@ebf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240624
+SUMMARY:Teaching Period 5 - final date for addition of courses or alteration of enrolment
+UID:142c689e-2ba6-4adf-babe-7a93fd63ae55@142c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240708
+SUMMARY:Semester 2 - My Timetable unavailable from 8:00am to 12:00pm
+UID:0622d950-87eb-45e5-9009-cb19a250e833@0622.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240626
+SUMMARY:Semester 2 - first date to request a program change through mySI-net
+UID:a386dc00-92aa-4f4c-a0f4-89910eda3a17@a386.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+SUMMARY:Summer Semester - My Timetable course timetables available
+UID:3fd324ad-3ceb-45dd-8c3f-518b501bb7d6@3fd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241102
+SUMMARY:Semester 2 examination period 2 - 16 November 2024
+UID:ef61ae60-bd40-44bd-bdd4-cbce06b1c2e6@ef61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241116
+SUMMARY:Teaching Period 7 - classes end
+UID:4473f675-fef3-4aa5-a3a5-42e1bd56a4cc@4473.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+SUMMARY:Semester 2 classes end before mid-semester break
+UID:3635ad9d-ff5a-4342-a136-e0da270c6c81@3635.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240719
+SUMMARY:Semester 2 - due date to enrol* for international students
+UID:4f686f86-498a-4430-9841-45f161ca2d37@4f68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Teaching Period 4 - classes end
+UID:fa587542-cc46-458b-9f40-711552fddd19@fa58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240705
+SUMMARY:Teaching Period 5 - census date/last date to drop courses or cancel enrolment without financial ...
+UID:caba4646-789c-470f-800a-a9d8fb52e992@caba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+SUMMARY:Universities Australia Common Vacation Week
+UID:6020d17b-4dc6-4f02-94ee-2de38c52fbeb@6020.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240819
+SUMMARY:Teaching Period 6 - final date for addition of courses or alteration of enrolment
+UID:afd461d6-f473-473c-a367-c172613a6727@afd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240802
+SUMMARY:Semester 2 - due date for payment of tuition fees
+UID:4c6628d5-fb83-488b-aaa5-ca252f2c6118@4c66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240715
+SUMMARY:Mid-year Orientation Week 15 - 19 July 2024
+UID:852f9206-866e-47f4-aa40-9e7684a39632@852f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241125
+SUMMARY:Teaching Period 8 - due date for payment of tuition fees
+UID:8f95c003-4364-48de-8028-4b8257f16c41@8f95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+SUMMARY:Summer Semester 2024/2025 - final date for addition or substitution of courses (provisional)
+UID:ccbf8ff7-9a1d-4757-9ad0-8d13db89a8a1@ccbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241108
+SUMMARY:Summer Semester 2024/2025 - due date for enrolment
+UID:f102fd62-2f55-4599-a9d9-9209d0f015a3@f102.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240722
+SUMMARY:Semester 2 classes commence*
+UID:5de7bdbd-3e14-4f67-96f8-2f062081ce2c@5de7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240712
+SUMMARY:Semester 2 - last date to request a program change through mySI-net
+UID:b51cb3aa-49ae-499f-bfb9-982d1326a3cc@b51c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+SUMMARY:Teaching Period 7 - classes commence/due date to enrol
+UID:0eae320e-3aa0-45ef-bf4e-454e5ab5745f@0eae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240801
+SUMMARY:Research Quarter 3 - census date/final date to cancel without financial penalty
+UID:25c57892-bff4-4288-9dd0-f8144e0a640d@25c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240626
+SUMMARY:Semester 1 finalisation of grades
+UID:7935b519-480e-4836-9d3b-80b9bb5c3715@7935.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+SUMMARY:Research Quarter 3 ends
+UID:7d8bd525-52b2-485e-93b4-ac4d949c8c8e@7d8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+SUMMARY:Teaching Period 7 - final date for addition of courses or alteration of enrolment
+UID:e719fb5c-4fb3-4406-a1d0-17e0822b3110@e719.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+SUMMARY:Summer Semester - My Timetable personal timetable released at 12:00pm\, and open for allocation ...
+UID:5fb1ff09-9170-4d93-b30a-566da8d9bab5@5fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+SUMMARY:Semester 2 classes recommence after mid-semester break*
+UID:fd42cbe2-c0e3-4fe3-9394-96606e92cd49@fd42.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241218
+SUMMARY:Summer Semester 2024/2025 Census Date - last date to withdraw from Summer Semester course(s) or ...
+UID:d15bb400-bc86-4ecb-ba9a-94f6597a7fc8@d15b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+SUMMARY:Semester 2 - last date to drop courses or cancel enrolment without academic penalty
+UID:998adf3c-269e-4cf5-bdeb-b53e645cb0a1@998a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241116
+SUMMARY:Semester 2 examination period ends/Semester 2 ends
+UID:c48ac31c-a542-4316-8b2b-e58e269c470f@c48a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241103
+SUMMARY:Summer Semester - My Timetable preferencing closes at 9:00am.
+UID:f40fd64f-2fe3-46e0-8219-9a8ae7cb9381@f40f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240830
+SUMMARY:Teaching Period 6 - census date/last date to drop courses or cancel enrolment without financial ...
+UID:11d013eb-6258-45df-bf07-d221642baa62@11d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240701
+SUMMARY:Teaching Period 5 - due date for payment of tuition fees
+UID:ab7cf2bb-fd01-441a-a7e2-d0ac8765f1e4@ab7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240716
+SUMMARY:Semester 1 deferred and supplementary examination period 16 - 19 July 2024
+UID:6cfdb913-4964-45c0-9d03-1ab7b6d1e117@6cfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+SUMMARY:Semester 2 mid-semester Saturday examinations
+UID:36326ad1-efbd-41ec-98fb-b6b9957fd96c@3632.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241226
+SUMMARY:Boxing Day public holiday
+UID:d48c295c-18fc-429f-b157-aec57d7ef8f7@d48c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+SUMMARY:Summer Semester 2024/2025 - due date for payment of tuition fees (provisional)
+UID:9280885a-096a-47ae-81d1-7e27f69f708b@9280.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241202
+SUMMARY:Graduations period 2 - 20 December 2024
+UID:a42c3cab-2fd5-42a1-ae8d-2c58a1691527@a42c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240708
+SUMMARY:Semester 2 - My Timetable personal timetable released at 12:00pm\, and open for allocation adjustment
+UID:8bc5a94d-5cf8-4c9f-b1f0-c9afc2f66536@8bc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+SUMMARY:Teaching Period 7 - census date/last date to drop courses or cancel enrolment without financial ...
+UID:8cf40c97-e518-4c48-a349-a701131e1933@8cf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+SUMMARY:Semester 2 - last date to withdraw from a course in mySI-net incurring financial liability and ...
+UID:a6a5da6b-78b5-4d2c-8a71-a437b0cc9473@a6a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240603
+SUMMARY:Teaching Period 4 - due date for payment of tuition fees
+UID:6788a3a8-abd0-4c9d-8143-e5575911f0bc@6788.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240804
+SUMMARY:Semester 2 - My Timetable allocation adjustment finishes at 9:00am
+UID:485ba576-0a27-4d12-8054-f2a5e1573534@485b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+SUMMARY:Semester 2 mid-semester break commences*
+UID:dfe421f4-764c-4ce8-ae62-1806745b723f@dfe4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+SUMMARY:Research Quarter 4 - census date/final date to cancel without financial penalty
+UID:eb8917cb-6845-4cd0-9a2c-acc7697c92f0@eb89.org
+END:VEVENT
+END:VCALENDAR
